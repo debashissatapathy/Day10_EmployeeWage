@@ -7,8 +7,8 @@ namespace Day10_EMployeeWages
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to EmployeeWage Computation Program");
-            UC1_Attendance uc1 = new UC1_Attendance();
-            uc1.Attendance();
+            UC5_MonthlyWage uc2 = new UC5_MonthlyWage();
+            uc2.Monthly_Wage();
         }
     }
 }
